@@ -186,13 +186,3 @@ Default Credentials
 - Mobile Responsive UI
 
 ---
-
-## Author
-
-**Khushboo Rajpoot**
-
----
-
-## License
-
-This project is intended for educational and portfolio purposes.
